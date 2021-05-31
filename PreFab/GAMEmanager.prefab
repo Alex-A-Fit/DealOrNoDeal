@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5669119588453539730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5669119588453539728}
+  - component: {fileID: 5669119588453539729}
+  m_Layer: 0
+  m_Name: GAMEmanager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5669119588453539728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5669119588453539730}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 610.28754, y: 360.51096, z: -285.74176}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5669119588453539729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5669119588453539730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e1fbe81fce7f24fa839fe68aa70616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PanelL1: {fileID: 0}
+  panelL1: {fileID: 0}
+  PanelL2: {fileID: 0}
+  panelL2: {fileID: 0}
+  PanelL3: {fileID: 0}
+  panelL3: {fileID: 0}
+  PanelL4: {fileID: 0}
+  panelL4: {fileID: 0}
+  PanelL5: {fileID: 0}
+  panelL5: {fileID: 0}
+  PanelL6: {fileID: 0}
+  panelL6: {fileID: 0}
+  PanelL7: {fileID: 0}
+  panelL7: {fileID: 0}
+  PanelL8: {fileID: 0}
+  panelL8: {fileID: 0}
+  PanelL9: {fileID: 0}
+  panelL9: {fileID: 0}
+  PanelL10: {fileID: 0}
+  panelL10: {fileID: 0}
+  PanelL11: {fileID: 0}
+  panelL11: {fileID: 0}
+  PanelL12: {fileID: 0}
+  panelL12: {fileID: 0}
+  PanelL13: {fileID: 0}
+  panelL13: {fileID: 0}
+  PanelR1: {fileID: 0}
+  panelR1: {fileID: 0}
+  PanelR2: {fileID: 0}
+  panelR2: {fileID: 0}
+  PanelR3: {fileID: 0}
+  panelR3: {fileID: 0}
+  PanelR4: {fileID: 0}
+  panelR4: {fileID: 0}
+  PanelR5: {fileID: 0}
+  panelR5: {fileID: 0}
+  PanelR6: {fileID: 0}
+  panelR6: {fileID: 0}
+  PanelR7: {fileID: 0}
+  panelR7: {fileID: 0}
+  PanelR8: {fileID: 0}
+  panelR8: {fileID: 0}
+  PanelR9: {fileID: 0}
+  panelR9: {fileID: 0}
+  PanelR10: {fileID: 0}
+  panelR10: {fileID: 0}
+  PanelR11: {fileID: 0}
+  panelR11: {fileID: 0}
+  PanelR12: {fileID: 0}
+  panelR12: {fileID: 0}
+  PanelR13: {fileID: 0}
+  panelR13: {fileID: 0}
+  caseNum: 0
