@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 0b593a5bf70f6014caf303248113b966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2727645625170779063
+    second: Rasengan_0
+  - first:
+      213: 2831822904259445025
+    second: Rasengan_1
+  - first:
+      213: 216161663638396758
+    second: Rasengan_2
+  - first:
+      213: 3242936810113712748
+    second: Rasengan_3
+  - first:
+      213: -3373762579213161637
+    second: Rasengan_4
+  - first:
+      213: -8369863901656504140
+    second: Rasengan_5
+  - first:
+      213: 4994468084866346161
+    second: Rasengan_6
+  - first:
+      213: -7071643743361644072
+    second: Rasengan_7
+  - first:
+      213: -2002792989123416219
+    second: Rasengan_8
+  - first:
+      213: 6265345084191678704
+    second: Rasengan_9
+  - first:
+      213: 7219933450242455360
+    second: Rasengan_10
+  - first:
+      213: -8703898173759911977
+    second: Rasengan_11
+  - first:
+      213: -9009587065006656342
+    second: Rasengan_12
+  - first:
+      213: -544054043452984009
+    second: Rasengan_13
+  - first:
+      213: 5367425990651895645
+    second: Rasengan_14
+  - first:
+      213: -2610495103087840094
+    second: Rasengan_15
+  - first:
+      213: 8364045614758105648
+    second: Rasengan_16
+  - first:
+      213: -7527493387261655393
+    second: Rasengan_17
+  - first:
+      213: 3597522625351095713
+    second: Rasengan_18
+  - first:
+      213: -51020887809595525
+    second: Rasengan_19
+  - first:
+      213: -108253407576809184
+    second: Rasengan_20
+  - first:
+      213: 1617052057751086840
+    second: Rasengan_21
+  - first:
+      213: 6916624483865985778
+    second: Rasengan_22
+  - first:
+      213: -2399985498448462447
+    second: Rasengan_23
+  - first:
+      213: 5541888402897550036
+    second: Rasengan_24
+  - first:
+      213: 3555060527529068080
+    second: Rasengan_25
+  - first:
+      213: -5822469872542620660
+    second: Rasengan_26
+  - first:
+      213: 6700896898262630650
+    second: Rasengan_27
+  - first:
+      213: 6356293919607652058
+    second: Rasengan_28
+  - first:
+      213: -7545120238621212940
+    second: Rasengan_29
+  - first:
+      213: -6177339698598029859
+    second: Rasengan_30
+  - first:
+      213: -878264886588839938
+    second: Rasengan_31
+  - first:
+      213: -7937189518402218190
+    second: Rasengan_32
+  - first:
+      213: -4106343495842606992
+    second: Rasengan_33
+  - first:
+      213: 2687204307640536223
+    second: Rasengan_34
+  - first:
+      213: 2685703456344026289
+    second: Rasengan_35
+  - first:
+      213: -6409975553351606279
+    second: Rasengan_36
+  - first:
+      213: 2762535033710206270
+    second: Rasengan_37
+  - first:
+      213: -5010368392277988972
+    second: Rasengan_38
+  - first:
+      213: -2115528676869729545
+    second: Rasengan_39
+  - first:
+      213: 9193599145872809297
+    second: Rasengan_40
+  - first:
+      213: 3771930100409392455
+    second: Rasengan_41
+  - first:
+      213: 8261518746107363400
+    second: Rasengan_42
+  - first:
+      213: -3590849884155445425
+    second: Rasengan_43
+  - first:
+      213: 1470961180491327201
+    second: Rasengan_44
+  - first:
+      213: 5367304370038356278
+    second: Rasengan_45
+  - first:
+      213: 6992352152581096650
+    second: Rasengan_46
+  - first:
+      213: 396250440532237441
+    second: Rasengan_47
+  - first:
+      213: -2293090654779905987
+    second: Rasengan_48
+  - first:
+      213: 2052913971600965658
+    second: Rasengan_49
+  - first:
+      213: -8407356374205974937
+    second: Rasengan_50
+  - first:
+      213: 4849149667538440057
+    second: Rasengan_51
+  - first:
+      213: 8201754015398260087
+    second: Rasengan_52
+  - first:
+      213: -509420105252479038
+    second: Rasengan_53
+  - first:
+      213: 7991116129153121821
+    second: Rasengan_54
+  - first:
+      213: -8094397130871817687
+    second: Rasengan_55
+  - first:
+      213: 6452054652403973876
+    second: Rasengan_56
+  - first:
+      213: 7083030016303463682
+    second: Rasengan_57
+  - first:
+      213: 82933648666435561
+    second: Rasengan_58
+  - first:
+      213: 8274549375479607685
+    second: Rasengan_59
+  - first:
+      213: 2161297465136558812
+    second: Rasengan_60
+  - first:
+      213: 1187608815504518043
+    second: Rasengan_61
+  - first:
+      213: 7997348272873479799
+    second: Rasengan_62
+  - first:
+      213: -903979235560005525
+    second: Rasengan_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rasengan_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3212
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9442c8e61c4752ad0800000000000000
+      internalID: -2727645625170779063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3212
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12103338de7ac4720800000000000000
+      internalID: 2831822904259445025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3212
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f593743e5fff200800000000000000
+      internalID: 216161663638396758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_3
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3212
+        width: 225
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62cdd3d8d9310d20800000000000000
+      internalID: 3242936810113712748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_4
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3212
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6e752fccfd21d0800000000000000
+      internalID: -3373762579213161637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2947
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8266b702548db80800000000000000
+      internalID: -8369863901656504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2947
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bceb78e24aef4540800000000000000
+      internalID: 4994468084866346161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2947
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c0da8b797cdd90800000000000000
+      internalID: -7071643743361644072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2947
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe7ac3366a434e0800000000000000
+      internalID: -2002792989123416219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2947
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f02c7aa82af2f650800000000000000
+      internalID: 6265345084191678704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2680
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04779ab583b523460800000000000000
+      internalID: 7219933450242455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2680
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d78ed7e9ba853780800000000000000
+      internalID: -8703898173759911977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2680
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f2599c4487f280800000000000000
+      internalID: -9009587065006656342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_13
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2680
+        width: 225
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735be51eab12378f0800000000000000
+      internalID: -544054043452984009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_14
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2680
+        width: 226
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f510b208dec7a40800000000000000
+      internalID: 5367425990651895645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2415
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47d84e888a5cbd0800000000000000
+      internalID: -2610495103087840094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2414
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03212d80c2f031470800000000000000
+      internalID: 8364045614758105648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2414
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ca2b85a8f88790800000000000000
+      internalID: -7527493387261655393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_18
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2414
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59b7b64c7fce130800000000000000
+      internalID: 3597522625351095713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2414
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77ebf9d5ccba4ff0800000000000000
+      internalID: -51020887809595525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2149
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a8af69186f7ef0800000000000000
+      internalID: -108253407576809184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2149
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6619d674ce07610800000000000000
+      internalID: 1617052057751086840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2149
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f20a9d7259ccff50800000000000000
+      internalID: 6916624483865985778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_23
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2149
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19df3e2a7e981bed0800000000000000
+      internalID: -2399985498448462447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_24
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2149
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab097e32eb8ec40800000000000000
+      internalID: 5541888402897550036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1882
+        width: 227
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036026ad6bc165130800000000000000
+      internalID: 3555060527529068080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1882
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04eeabef7e623fa0800000000000000
+      internalID: -5822469872542620660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1882
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00671e93e5efc50800000000000000
+      internalID: 6700896898262630650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_28
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1882
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade703e84a7163850800000000000000
+      internalID: 6356293919607652058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_29
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1882
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe3f556e195a4790800000000000000
+      internalID: -7545120238621212940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1617
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd55528e54ea54aa0800000000000000
+      internalID: -6177339698598029859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1617
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76c282db6cfc3f0800000000000000
+      internalID: -878264886588839938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1617
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379ea0af2079d190800000000000000
+      internalID: -7937189518402218190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_33
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1617
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d09cc8565307c0800000000000000
+      internalID: -4106343495842606992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1617
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c40d3941eda4520800000000000000
+      internalID: 2687204307640536223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1350
+        width: 227
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcac676019854520800000000000000
+      internalID: 2685703456344026289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1352
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1a8b12313b07a0800000000000000
+      internalID: -6409975553351606279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1352
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d5ed30afe765620800000000000000
+      internalID: 2762535033710206270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_38
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1352
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ec684e78977ab0800000000000000
+      internalID: -5010368392277988972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_39
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1352
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2170f70e124a2e0800000000000000
+      internalID: -2115528676869729545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1085
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5511a6b9369f70800000000000000
+      internalID: 9193599145872809297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1085
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d51881176985430800000000000000
+      internalID: 3771930100409392455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_42
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1085
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c5f6378fc6a270800000000000000
+      internalID: 8261518746107363400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_43
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1085
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f79253e0dba2ec0800000000000000
+      internalID: -3590849884155445425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_44
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1085
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e623917667e96410800000000000000
+      internalID: 1470961180491327201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 820
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b98923ee7c7a40800000000000000
+      internalID: 5367304370038356278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 820
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c8075c33d90160800000000000000
+      internalID: 6992352152581096650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 820
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c140e1da3cf7500800000000000000
+      internalID: 396250440532237441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_48
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 820
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d386314e23e4d20e0800000000000000
+      internalID: -2293090654779905987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_49
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 820
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1046bf516a6d7c10800000000000000
+      internalID: 2052913971600965658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 553
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663657fbe1135b80800000000000000
+      internalID: -8407356374205974937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 553
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f05544ee3ab4340800000000000000
+      internalID: 4849149667538440057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_52
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 553
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d62fe72db72d170800000000000000
+      internalID: 8201754015398260087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_53
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 553
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfdbf00d1d2ee8f0800000000000000
+      internalID: -509420105252479038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_54
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 553
+        width: 226
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef01dd7c526ee60800000000000000
+      internalID: 7991116129153121821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 288
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab17702bceaaf80800000000000000
+      internalID: -8094397130871817687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 288
+        width: 227
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef1fb958d4a8950800000000000000
+      internalID: 6452054652403973876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_57
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 288
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7237b54afb4260800000000000000
+      internalID: 7083030016303463682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 288
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef90bcc6b3a62100800000000000000
+      internalID: 82933648666435561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_59
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 288
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58174e901da15d270800000000000000
+      internalID: 8274549375479607685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ba6fe7987efd10800000000000000
+      internalID: 2161297465136558812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 21
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be44ceceb3b7010800000000000000
+      internalID: 1187608815504518043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_62
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 21
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e15b5e1e94cfe60800000000000000
+      internalID: 7997348272873479799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasengan_63
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 21
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ed1cbcab6473f0800000000000000
+      internalID: -903979235560005525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
